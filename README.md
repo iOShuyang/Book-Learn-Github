@@ -1,10 +1,13 @@
-# Learn-Github
+# <div align=center>学习如何使用Github知识积累</div>
+##### 请勿在不通知小编情况下，随意复制发不到其他平台 
+##### 请尊重小编辛苦搜集整理的资料，如需转载请注明原文地址
+##### 如果觉得整理的资料还不错，请点赞，谢谢支持
 <br>
 <br>
 <br>
 
 -------
-## <center>Github 的issue</center>
+## <div align=center>Github 的issue</div>
 ###### Github为开发者提供了许多便于开发的功能，其中，issues功能被用来追踪各种想法，增强功能，任务，bug等。许多的项目通过centeral bug tracker收集用户的反馈，Github通过issues来实现同样的功能。 
 ###### 添加Issues是一种为你的项目跟踪任务(tasks)、强化(enhancements)以及bug的利器。它们有点类似于邮件，除了它们可以与团队的其他成员分享和讨论。大多数软件项目都会有某种bug跟踪器。而Github的跟踪器叫做Issues，在每个仓库上都会有自己的Issues部分。
 
@@ -36,8 +39,7 @@
 <br>
 
 -------
-## <center>Github 的Pull request</center>
-
+## <div align=center>Github 的Pull request</div>
 ###### Pull Request 是一种机制，让开发者告诉项目成员一个功能已经完成。一旦 feature 分支开发完毕，开发者使用 GitHub 账号提交一个 Pull Request。它告诉所有参与者，他们需要审查代码，并将代码并入 master 分支。Pull Request 不只是一个通知，还是一个专注于某个提议功能的讨论版。
 
 
@@ -49,7 +51,7 @@
 4. 其余的团队成员审查代码，讨论并且做出修改。
 5. 项目维护者将这个功能并入官方的仓库，然后关闭这个 Pull Request。
 ```
-<center>[Pull Request的实战学习](https://www.jianshu.com/p/ac33f0295629)</center>
+[Pull Request的实战学习](https://www.jianshu.com/p/ac33f0295629)
 
 
 <br>
@@ -60,7 +62,7 @@
 <br>
 
 -------
-## <center>Github 的Projects</center>
+## <div align=center>Github 的Projects</div>
 ###### GitHub新推出的项目管理工具Projects，协助开发者在开发流程中整合项目管理，让开发者可以直接在GitHub程序代码储存库中管理工作流程，而Projects的介面就像看板系统，能够图像化开发流程，用户可以根据团队使用需求建立工作流程架构，如“开发中”、“已完成”、“尚未开始进行”等，且能通过拖拉的方式，来调整工作流程栏位的顺序。
 
 ![](http://image.tianjimedia.com/uploadImages/2016/262/55/OB1961UI7FS0_01.gif)
@@ -76,7 +78,7 @@
 <br>
 
 -------
-## <center>Github 的Wiki</center>
+## <div align=center>Github 的Wiki</div>
 ###### GitHub 每一个项目都有一个独立完整的 Wiki 页面，我们可以用它来实现项目信息管理，为项目提供更加完善的文档。我们可以把 Wiki作为项目文档的一个重要组成部分，将冗长、具体的文档整理成 Wiki，将精简的、概述性的内容，放到项目中或是 README.md 里。
 
 `Wiki 是一种在网络上开放且可供多人协同创作的超文本系统，由沃德·坎宁安于 1995 年首先开发，这种超文本系统支持面向社群的协作式写作，同时也包括一组支持这种写作。Wiki 站点可以有多人（甚至任何访问者）维护，每个人都可以发表自己的意见，或者对共同的主题进行扩展或者探讨。
@@ -94,7 +96,7 @@
 <br>
 
 -------
-## <center>Github 的Insights</center>
+## <div align=center>Github 的Insights</div>
 ###### 洞察：
 ###### Pulse：显示该仓库最近的活动信息。该仓库中的软件是 无人问津，还是在火热的开发之中，从这里可以一目了然。
 ###### Graphs：以图表形式显示该仓库的各项指标。让用户轻松了解该仓库的活动倾向。
@@ -107,7 +109,7 @@
 <br>
 
 -------
-## <center>Github 的Settings</center>
+## <div align=center>Github 的Settings</div>
 ###### 主要是对该仓库的一些配置进行设置的页面，点击打开页面都有详细的介绍，可根据自己的需求对仓库进行设置。
 
 `
